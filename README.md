@@ -19,6 +19,7 @@ The purpose of this obesity data is to show the correlation between adult obesit
 * Finally, make sure that the Pandas package is imported into the Python notebook you are using (directions can be found in the .ipynb file linked at the top of the repository).  
 
 ## Accessing the Data
+Below are links to the datasets that are used and created in this repository.
 [Raw Data](https://github.com/ahibbeler/obesity-health-data/blob/main/CountyHealthData_2014-2015.csv) 
 
 [Final Data Subset](https://github.com/ahibbeler/obesity-health-data/blob/main/CompiledDataFinal.csv) 
