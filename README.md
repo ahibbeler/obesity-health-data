@@ -14,8 +14,8 @@ This data repository was created for Professor Gotzler's English 105 class at th
 The purpose of this obesity data is to show the correlation between adult obesity and poor health in North Carolina. The finalized data in the ```CompiledDataFinal.csv``` can be used to analyze the correlation between these factors. The ```CountyHealthData_2014-2015.csv``` can be used to analyze other factors in relation to adult obesity such as physical inactivity levels to further examine this aspect of citizen life in North Carolina. 
 
 ## How can users get started with the repository?
-
-## Where can users get help with the repository? 
+* Downloading the ```CountyHealthData_2014-2015.csv``` file is necessary to replicate the processes used in this repository. This file can be found at the top of the repository, and the hyperlink can be found in the Accessing the Data section of this README file.
+* 
 
 ## Accessing the Data
 [Raw Data](https://github.com/ahibbeler/obesity-health-data/blob/main/CountyHealthData_2014-2015.csv) 
