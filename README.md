@@ -17,5 +17,6 @@ This data repository was created for Professor Gotzler's English 105 class at th
 ## Where can users get help with the repository? 
 
 ## Accessing the Data
-Raw Data
-Final Data Subset
+[Raw Data](https://github.com/ahibbeler/obesity-health-data/blob/main/CountyHealthData_2014-2015.csv) 
+
+[Final Data Subset]
