@@ -15,7 +15,8 @@ The purpose of this obesity data is to show the correlation between adult obesit
 
 ## How can users get started with the repository?
 * Downloading the ```CountyHealthData_2014-2015.csv``` file is necessary to replicate the processes used in this repository. This file can be found at the top of the repository, and the hyperlink can be found in the Accessing the Data section of this README file.
-* 
+* After your file has been downloaded, import that data into any program that runs Python. (This project utilizes Google Colaboratory, and directions for the processes that were used can be found in the Google Colab notebook that is linked at the top of the repository as a .ipynb file.)
+* Finally, make sure that the Pandas package is imported into the Python notebook you are using (directions can be found in the .ipynb file linked at the top of the repository). 
 
 ## Accessing the Data
 [Raw Data](https://github.com/ahibbeler/obesity-health-data/blob/main/CountyHealthData_2014-2015.csv) 
