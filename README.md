@@ -19,4 +19,4 @@ This data repository was created for Professor Gotzler's English 105 class at th
 ## Accessing the Data
 [Raw Data](https://github.com/ahibbeler/obesity-health-data/blob/main/CountyHealthData_2014-2015.csv) 
 
-[Final Data Subset]
+[Final Data Subset](https://github.com/ahibbeler/obesity-health-data/blob/main/CompiledDataFinal.csv) 
